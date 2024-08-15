@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
     --primary-normal: #fe6c2b;
     --primary-dark: #d43b2d;
@@ -26,3 +27,28 @@
     --gap: 30px;
     
 }
+=======
+:root {
+    --primary-normal: #fe6c2b;
+    --primary-dark: #d43b2d;
+    --primary-light: #f28b66;
+
+    --secondary-normal: #d43b2d;
+    --secondary-dark: #de614e;
+    --secondary-light: #eb3114;
+
+    --black-normal: #232224;
+    --black-dark: #161617;
+    --black-light: #353436;
+
+    --white-normal: #fff;
+    --white-dark: #edeaef;
+    --white-light: #fefbff;
+
+    --red-normal: #d94140;
+    --red-dark: #b42b2b;
+    --red-light: #f05050;
+
+    --gap: 30px;
+}
+>>>>>>> d4c1a34 (Atualizando site 1.1)
